@@ -1,6 +1,6 @@
 package com.example.EventClean.core.enums;
 
-public enum eventType {
+public enum EventType {
     WORKSHOP,
     LECTURE,
     MUSIC,
