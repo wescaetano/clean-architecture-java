@@ -12,7 +12,7 @@ public record Event(
         LocalDateTime startDate,
         LocalDateTime endDate,
         String location,
-        int capacity,
+        Integer capacity,
         String organizer,
         EventType type
 ) {}
