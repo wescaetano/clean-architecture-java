@@ -8,7 +8,7 @@ public class EventCleanApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(EventCleanApplication.class, args);git
+		SpringApplication.run(EventCleanApplication.class, args);
 	}
 
 }
