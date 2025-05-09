@@ -1,7 +1,5 @@
 package com.example.EventClean.core.entities;
-
-import jdk.jfr.EventType;
-
+import com.example.EventClean.core.enums.EventType;
 import java.time.LocalDateTime;
 
 public record Event(
